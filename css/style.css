@@ -19,8 +19,9 @@ body{
     clear: both;
 }
 
-.row{
-    margin-bottom: 25px;
+.page{
+    background-color: blue;
+    padding-bottom: 20px;
 }
 
 .sidebar{
@@ -29,10 +30,10 @@ body{
 }
 
 footer{
-    background-color: rgb(49, 1, 104);
+    background-color: purple;
     width: 1200px;
     height: 100px;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 
 /* -------------------------- */
